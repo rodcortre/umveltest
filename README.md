@@ -1,6 +1,6 @@
 # umveltest
 
-umveltest is an android application to display data in the form of an infinite and detailed list of rick and morty
+umveltest is an react native application to display data in the form of an infinite and detailed list of rick and morty
 
 ## Installation
 
